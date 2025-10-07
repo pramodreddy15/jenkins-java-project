@@ -3,7 +3,6 @@ package in.javahome.myweb.controller;
  * 
  */
 public class Calculator {
-	hi hello how are you?
 	
 	/*
 	 * @param i
