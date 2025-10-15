@@ -19,5 +19,3 @@ public class Calculator {
 		return i-j;
 	}
 }
-
-Hi,Hello How are you?
